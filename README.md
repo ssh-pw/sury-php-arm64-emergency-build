@@ -211,4 +211,4 @@ for p in php8.5-fpm php8.3-fpm php7.4-fpm; do printf "%-12s " "$p"; grep -a -A12
 
 ## License
 
-[CC BY 4.0](LICENSE). Provided as is, without warranty of any kind.
+[CC0 1.0](LICENSE). Provided as is, without warranty of any kind.
