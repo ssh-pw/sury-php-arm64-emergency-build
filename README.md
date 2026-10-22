@@ -3,7 +3,7 @@
 > **No warranty — for information only.**
 > This document describes how we rebuilt the PHP packages from [deb.sury.org](https://deb.sury.org/) for arm64 ourselves on 2026-10-21 during php2shell (CVE-2026-109618 / CVE-2026-109619), because the official arm64 binaries arrived days after the amd64 packages. It is a field report, not a recommendation and not a supported procedure. Use at your own risk. The resulting packages do not come from the Sury project, are not signed and are not maintained by anyone. Roll back to the official packages as soon as they are available (section G).
 >
-> If the Sury repository helps you: <https://deb.sury.org/#donate>.
+> If the Sury repository helps you: <https://github.com/sponsors/oerdnj>.
 
 ## Background
 
