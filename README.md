@@ -208,3 +208,7 @@ curl -sS -o /tmp/Packages.arm64 https://packages.sury.org/php/dists/bookworm/mai
 ```
 for p in php8.5-fpm php8.3-fpm php7.4-fpm; do printf "%-12s " "$p"; grep -a -A12 "^Package: $p$" /tmp/Packages.arm64 | grep -a -m1 "^Version:"; done
 ```
+
+## License
+
+[CC BY 4.0](LICENSE). Provided as is, without warranty of any kind.
